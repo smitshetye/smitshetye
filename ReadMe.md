@@ -44,11 +44,6 @@ Interactive Dragon - @intdragon
 
 [![Visits Badge](https://badges.pufler.dev/visits/smitshetye/badge-it)](https://badges.pufler.dev)
 
-<div align="center">
-  [![Visits Badge](https://badges.pufler.dev/visits/smitshetye/badge-it)](https://badges.pufler.dev)
-</div>
-
-
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=for-the-badge&logo=github"/>    
 </p>
