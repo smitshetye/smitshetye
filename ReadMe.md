@@ -44,10 +44,8 @@ Interactive Dragon - @intdragon
 
 [![Visits Badge](https://badges.pufler.dev/visits/smitshetye/badge-it)](https://badges.pufler.dev)
 
-<div style="text-align: center;">
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/smitshetye/badge-it" alt="Visits Badge">
-  </a>
+<div align="center">
+  [![Visits Badge](https://badges.pufler.dev/visits/smitshetye/badge-it)](https://badges.pufler.dev)
 </div>
 
 
